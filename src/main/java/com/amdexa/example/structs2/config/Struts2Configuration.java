@@ -10,7 +10,9 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import javax.servlet.DispatcherType;
 import javax.servlet.Filter;
 
-
+/**
+ * https://struts.apache.org/getting-started/hello-world-using-struts2#step-3---create-the-view-helloworldjsp
+ */
 @Configuration
 public class Struts2Configuration implements WebMvcConfigurer {
 
